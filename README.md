@@ -22,3 +22,6 @@ The illegal parking incidents area major problems in New York area. We analyze t
 
 ## Name: Xinhang Li
 ## UIN: xl3035
+## Name: Ashely Luo
+## UIN: hl3536
+
