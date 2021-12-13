@@ -9,6 +9,9 @@ It's a CVS file [containing a year of data from this dataset](https://drive.goog
 
 Each date contains information about Created Date, Closed Date, Agency Name, Complaint Type, Descriptor, Location Type, Incident Zip, Incident Address, Street Name, Cross Street 1, Cross Street 2, Intersection Street 1, Intersection Street 2, Address Type, City, Landmark, Facility Type, Status, Due Date, Resolution Description , Resolution Action, Updated Date, Community Board, BBL, Borough, X Coordinate (State Plane), Y Coordinate (State Plane), Open Data Channel Type, Park Facility Name, Park BoroughBridge, Latitude, Longitude and Location.  
 
+For the project, we focus on features like Incident Zip and Complaint Type to get analysis of the complaints in the New York City.
+
+
 
 ## Project Work
 For the the project, we want to explore the details of service request made by people from area(Zip Code:10025). 
