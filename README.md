@@ -1,9 +1,9 @@
 # Project Group 45 Section 001: NYC Data
 
 ## Data Description
-New York City publishes a number of open datasets for public consumption or use. Amongst them is a dataset consisting of calls to the 311 phone number for non-emergency services. 
+There are many open data sets for public consumption or use published by New York City. This consists of a data set that includes 311 phone numbers for the non-emergency services call.
 
-Each call to 311 has a number of datapoints tracked and aggregated. 
+Many data points are tracked and summarized every time the 311 phone number is called.
 
 It's a CVS file [containing a year of data from this dataset](https://drive.google.com/drive/folders/1BRd8_RSST69UaZRBeD_dtXGw9fuKoBZE?usp=sharing). 
 
