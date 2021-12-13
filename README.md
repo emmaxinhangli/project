@@ -1,4 +1,4 @@
-# Project: NYC Data
+# Project Group 45 Section 001: NYC Data
 
 ## Data Description
 New York City publishes a number of open datasets for public consumption or use. Amongst them is a dataset consisting of calls to the 311 phone number for non-emergency services. 
@@ -20,8 +20,6 @@ The illegal parking incidents area major problems in New York area. We analyze t
 
 
 
-## Name: Xinhang Li
-## UIN: xl3035
-## Name: Ashely Luo
-## UIN: hl3536
+## Name: Xinhang Li, Ashely Luo
+## UIN: xl3035, hl3536
 
