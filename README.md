@@ -1,3 +1,3 @@
-# project
-# Name: Xinhang Li
-# UIN: xl3035
+# Project: NYC Data
+Name: Xinhang Li
+UIN: xl3035
